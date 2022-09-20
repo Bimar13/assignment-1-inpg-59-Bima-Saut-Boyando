@@ -1,0 +1,16 @@
+body {
+    background-color: #F6F7FB;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.w-2 {
+    width: 150px;
+    height: 150px;
+}
+
+.btn-success {
+    background-color: #3F6D25 !important;
+}
